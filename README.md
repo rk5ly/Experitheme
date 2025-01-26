@@ -35,5 +35,5 @@ Minimum supported system:
 
  3. Select the theme file (it has the extension .mtz)
 
-    4. Done!
+4. Done!
   
