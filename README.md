@@ -9,8 +9,8 @@
 Please note that the "Experitheme" theme is only compatible with Xiaomi and HyperOS devices, which ensures maximum optimization and stability. Dive into the world of stylish design with "Experitheme" and enjoy a new experience using your device!</code></em>
 
 ### ⚙️ Download file with theme:
-- [HyperOS](https://github.com/rk5ly/Experitheme/raw/refs/heads/main/Experitheme%20(HyperOS).mtz)
-- [MIUI](https://github.com/rk5ly/Experitheme/raw/refs/heads/main/Experitheme%20(MIUI).mtz)
+- [HyperOS](https://github.com/rk5ly/Experitheme/releases/download/experitheme/Experitheme.HyperOS.mtz)
+- [MIUI](https://github.com/rk5ly/Experitheme/releases/download/experitheme/Experitheme.MIUI.mtz)
 
 ## 🚀 Getting Started
 
